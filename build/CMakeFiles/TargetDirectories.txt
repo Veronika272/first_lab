@@ -1,0 +1,3 @@
+C:/first_lab/build/CMakeFiles/MyExecutable.dir
+C:/first_lab/build/CMakeFiles/ALL_BUILD.dir
+C:/first_lab/build/CMakeFiles/ZERO_CHECK.dir
