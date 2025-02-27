@@ -11,5 +11,8 @@ int main() {
 	std::cout << add(a, b) << std::endl;
 	std::cout << sub(a, b) << std::endl;
 
+	int result = multiply(a, b);
+	std::cout << "Resultat: " << result << std::endl;
+
 	return 0;
 }
